@@ -1,0 +1,60 @@
+09-05-15 8:21:54	::1	INFO	shared	Create User	user_id=admin
+09-05-15 8:22:13	::1	INFO	admin	Log In	
+09-05-15 8:22:38	::1	INFO	admin	Switch Repository	rep. id=1
+09-05-15 8:23:32	::1	INFO	admin	Create Dir	dir=//prueba
+09-05-15 8:24:14	::1	INFO	admin	Move	files=/prueba;destination=/recycle_bin
+09-05-15 8:24:21	::1	INFO	admin	Switch Repository	rep. id=ajxp_conf
+09-05-15 8:25:07	::1	INFO	admin	Listing plugins	
+09-05-15 8:25:13	::1	INFO	admin	Listing plugins	
+09-05-15 8:25:19	::1	INFO	admin	Listing plugins	
+09-05-15 8:26:10	::1	INFO	admin	Switch Repository	rep. id=0
+09-05-15 8:26:20	::1	INFO	admin	Switch Repository	rep. id=1
+09-05-15 8:26:34	::1	INFO	admin	Delete	files=/recycle_bin/prueba
+09-05-15 8:26:47	::1	INFO	admin	Switch Repository	rep. id=0
+09-05-15 8:26:53	::1	INFO	admin	Switch Repository	rep. id=1
+09-05-15 8:27:55	::1	INFO	admin	Switch Repository	rep. id=ajxp_conf
+09-05-15 8:29:47	::1	INFO	admin	Switch Repository	rep. id=ajxp_shared
+09-05-15 8:30:31	::1	INFO	admin	Log Out	
+09-05-15 8:30:37	::1	INFO	admin	Log In	
+09-05-15 8:30:44	::1	INFO	admin	Switch Repository	rep. id=1
+09-05-15 8:36:23	::1	INFO	admin	Switch Repository	rep. id=ajxp_conf
+09-05-15 8:38:53	::1	INFO	admin	Create Repository	repo_name=Proyecto
+09-05-15 8:39:37	::1	INFO	admin	Edit Repository	repo_name=Proyecto
+09-05-15 8:39:43	::1	INFO	admin	Switch Repository	rep. id=f171a2dcda1b2c9b26e37c614ae138b9
+09-05-15 8:40:18	::1	INFO	admin	Switch Repository	rep. id=ajxp_conf
+09-05-15 8:41:06	::1	INFO	admin	Edit Repository	repo_name=Proyecto
+09-05-15 8:43:25	::1	INFO	admin	Listing plugins	
+09-05-15 8:43:34	::1	INFO	admin	Listing plugins	
+09-05-15 8:43:38	::1	INFO	admin	Listing plugins	
+09-05-15 8:43:48	::1	INFO	admin	Listing plugins	
+09-05-15 8:45:48	::1	INFO	admin	Delete Repository	repo_id=f171a2dcda1b2c9b26e37c614ae138b9
+09-05-15 9:05:06	::1	INFO	admin	Create User	user_id=Administrator
+09-05-15 9:05:18	::1	INFO	admin	Delete User	user_id=Administrator;sub_user=
+09-05-15 9:06:08	::1	INFO	admin	error	message=¡Argumentos equivocados!
+09-05-15 9:07:23	::1	INFO	admin	Create User	user_id=administrador
+09-05-15 9:13:01	::1	INFO	admin	Switch Repository	rep. id=1
+09-05-15 9:13:12	::1	INFO	admin	error	message=You are not allowed to access this resource.
+09-05-15 9:13:28	::1	INFO	admin	Switch Repository	rep. id=ajxp_conf
+09-05-15 9:14:51	::1	INFO	admin	Create Repository	repo_name=administrador
+09-05-15 9:15:56	::1	INFO	admin	Switch Repository	rep. id=dd6026a3e27a24877150631029e23282
+09-05-15 9:16:05	::1	INFO	admin	Switch Repository	rep. id=1
+09-05-15 9:16:08	::1	INFO	admin	Switch Repository	rep. id=ajxp_conf
+09-05-15 9:17:37	::1	INFO	admin	Edit Repository	repo_name=administrador
+09-05-15 9:17:42	::1	INFO	admin	Switch Repository	rep. id=dd6026a3e27a24877150631029e23282
+09-05-15 9:27:03	::1	INFO	admin	error	message=You are not allowed to access this resource.
+09-05-15 9:32:17	::1	INFO	admin	Switch Repository	rep. id=ajxp_conf
+09-05-15 9:32:31	::1	INFO	admin	Edit Repository	repo_name=administrador
+09-05-15 9:32:35	::1	INFO	admin	Switch Repository	rep. id=dd6026a3e27a24877150631029e23282
+09-05-15 9:56:09	::1	INFO	admin	Get_content	files=/unemi/application/logs/2015/log_2015.08.23_18.04.09.txt
+09-05-15 9:56:31	::1	INFO	admin	Get_content	files=/unemi/application/logs/2015/log_2015.09.05_09.53.43.txt
+09-05-15 9:57:16	::1	INFO	admin	Get_content	files=/unemi/application/logs/2015/log_2015.08.30_15.24.29.txt
+09-05-15 9:57:39	::1	INFO	admin	Get_content	files=/unemi/application/logs/2015/log_2015.08.30_15.24.08.txt
+09-05-15 9:58:07	::1	INFO	admin	Get_content	files=/unemi/application/logs/app/2015/1/log_2015.08.23_18.04.10.txt
+09-05-15 10:01:26	::1	INFO	admin	Get_content	files=/unemi/application/logs/app/2015/2/log_2015.09.05_09.53.44.txt
+09-05-15 10:02:56	::1	INFO	admin	Get_content	files=/unemi/application/logs/app/2015/2/log_2015.09.05_10.02.23.txt
+09-05-15 10:03:02	::1	INFO	admin	Get_content	files=/unemi/application/logs/app/2015/2/log_2015.09.05_10.02.24.txt
+09-05-15 10:03:10	::1	INFO	admin	Get_content	files=/unemi/application/logs/app/2015/2/log_2015.09.05_10.02.25.txt
+09-05-15 10:03:35	::1	INFO	admin	Get_content	files=/unemi/application/logs/app/2015/2/log_2015.09.05_10.02.26.txt
+09-05-15 10:03:48	::1	INFO	admin	Get_content	files=/unemi/application/logs/app/2015/3/log_2015.08.30_15.47.56.txt
+09-05-15 10:04:09	::1	INFO	admin	Get_content	files=/unemi/application/logs/db_backup/2015/08/23/unemi_20150605-2015.08.23_21.35.33.sql
+09-05-15 10:04:31	::1	INFO	admin	Switch Repository	rep. id=ajxp_conf
